@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: hello-world-test-service-1
+  name: hello-world-test-service-argo
 spec:
   type: NodePort
   selector:
